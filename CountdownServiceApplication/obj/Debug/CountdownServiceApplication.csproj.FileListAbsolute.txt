@@ -1,0 +1,8 @@
+c:\users\joaquim.castro\documents\visual studio 2015\Projects\WebApplication1\CountdownServiceApplication\bin\CountdownServiceApplication.dll.config
+c:\users\joaquim.castro\documents\visual studio 2015\Projects\WebApplication1\CountdownServiceApplication\bin\CountdownServiceApplication.dll
+c:\users\joaquim.castro\documents\visual studio 2015\Projects\WebApplication1\CountdownServiceApplication\bin\CountdownServiceApplication.pdb
+c:\users\joaquim.castro\documents\visual studio 2015\Projects\WebApplication1\CountdownServiceApplication\bin\Services.dll
+c:\users\joaquim.castro\documents\visual studio 2015\Projects\WebApplication1\CountdownServiceApplication\bin\Services.pdb
+c:\users\joaquim.castro\documents\visual studio 2015\Projects\WebApplication1\CountdownServiceApplication\obj\Debug\CountdownServiceApplication.csprojResolveAssemblyReference.cache
+c:\users\joaquim.castro\documents\visual studio 2015\Projects\WebApplication1\CountdownServiceApplication\obj\Debug\CountdownServiceApplication.dll
+c:\users\joaquim.castro\documents\visual studio 2015\Projects\WebApplication1\CountdownServiceApplication\obj\Debug\CountdownServiceApplication.pdb

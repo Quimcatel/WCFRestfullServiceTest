@@ -1,0 +1,4 @@
+c:\users\joaquim.castro\documents\visual studio 2015\Projects\WebApplication1\Services\bin\Debug\Services.dll
+c:\users\joaquim.castro\documents\visual studio 2015\Projects\WebApplication1\Services\bin\Debug\Services.pdb
+c:\users\joaquim.castro\documents\visual studio 2015\Projects\WebApplication1\Services\obj\Debug\Services.dll
+c:\users\joaquim.castro\documents\visual studio 2015\Projects\WebApplication1\Services\obj\Debug\Services.pdb
